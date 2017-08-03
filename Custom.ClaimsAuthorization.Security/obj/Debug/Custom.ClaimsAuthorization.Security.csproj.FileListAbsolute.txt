@@ -1,0 +1,5 @@
+D:\Antony\Blog Technical\Security\Custom.ClaimsAuthorization\Custom.ClaimsAuthorization.Security\bin\Debug\Custom.ClaimsAuthorization.Security.dll
+D:\Antony\Blog Technical\Security\Custom.ClaimsAuthorization\Custom.ClaimsAuthorization.Security\bin\Debug\Custom.ClaimsAuthorization.Security.pdb
+D:\Antony\Blog Technical\Security\Custom.ClaimsAuthorization\Custom.ClaimsAuthorization.Security\obj\Debug\Custom.ClaimsAuthorization.Security.csprojResolveAssemblyReference.cache
+D:\Antony\Blog Technical\Security\Custom.ClaimsAuthorization\Custom.ClaimsAuthorization.Security\obj\Debug\Custom.ClaimsAuthorization.Security.dll
+D:\Antony\Blog Technical\Security\Custom.ClaimsAuthorization\Custom.ClaimsAuthorization.Security\obj\Debug\Custom.ClaimsAuthorization.Security.pdb
